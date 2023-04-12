@@ -6,6 +6,7 @@ All imports:
 We imported BeautifulSoup, pandas, requests, lxml
 
 
+
 BeautifulSoup was imported from bs4 library. This package is used for retrieving data from web address.
 The requests module allows to send HTTP requests using 
 Python. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
