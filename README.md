@@ -5,7 +5,7 @@ Procedure used for web scrapping:
 All imports:
 We imported BeautifulSoup, pandas, requests, lxml
 
-![My Image](../home/sahil/Desktop/webscrap/1.png)
+![My Image](https://github.com/sahilkhimani/WebScrapping-Project/blob/images/1.png)
 
 <!--  file:///home/sahil/Desktop/webscrap/1.png -->
 
