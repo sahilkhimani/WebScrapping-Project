@@ -7,7 +7,6 @@ We imported BeautifulSoup, pandas, requests, lxml
 
 ![My Image](https://github.com/sahilkhimani/WebScrapping-Project/blob/images/1.png)
 
-<!--  file:///home/sahil/Desktop/webscrap/1.png -->
 
 BeautifulSoup was imported from bs4 library. This package is used for retrieving data from web address.
 The requests module allows to send HTTP requests using 
@@ -17,6 +16,7 @@ Pandas is a popular Python package for data science, and with good reason: it of
 
 Code:
 
+![My Image](https://github.com/sahilkhimani/WebScrapping-Project/blob/images/2.png)
 
 
 
@@ -30,6 +30,7 @@ On line 11, data is parsed to html by using BeautifulSoup library and lxml packa
 We inspected the source code of the url by using the f12 key in chrome browser to check the divisions and table structure etc.
 
 
+![My Image](https://github.com/sahilkhimani/WebScrapping-Project/blob/images/3.png)
 
 
 
@@ -42,7 +43,7 @@ On line 23 and 24, by using pandas' library all the lists of data are added by c
 Showing Dataframe:
 
 
-
+![My Image](https://github.com/sahilkhimani/WebScrapping-Project/blob/images/4.png)
 
 
 
@@ -50,6 +51,7 @@ By using .head() function of dataframe. Few of the records are shown. All record
 
 Showing Dataframe Size:
 
+![My Image](https://github.com/sahilkhimani/WebScrapping-Project/blob/images/5.png)
 
 
 By using .info() method it is showing the all coulumns name and size of each column.
