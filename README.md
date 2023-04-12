@@ -5,7 +5,7 @@ Procedure used for web scrapping:
 All imports:
 We imported BeautifulSoup, pandas, requests, lxml
 
-
+https://github.com/sahilkhimani/WebScrapping-Project/blob/images/1.png
 
 BeautifulSoup was imported from bs4 library. This package is used for retrieving data from web address.
 The requests module allows to send HTTP requests using 
